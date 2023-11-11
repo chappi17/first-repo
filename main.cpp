@@ -1,6 +1,6 @@
 #include "Warrior.h"
 
-int MainFunction()
+int MAINFUNC()
 {
 
 }
