@@ -1,2 +1,2 @@
-int func();
+int func()
 
